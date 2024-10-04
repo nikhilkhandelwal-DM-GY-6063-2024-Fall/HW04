@@ -15,8 +15,8 @@ function setup() {
       let randomSizeBig = random(20,80);
       
       // Vary the position slightly to break the grid pattern
-      let offsetX = 50;
-      let offsetY = 50;
+      let offsetX = random(-30,30);
+      let offsetY = random(-30,30);
       
       // Draw the big circle with random variations
       ellipse(x + offsetX, y + offsetY, randomSizeBig);
