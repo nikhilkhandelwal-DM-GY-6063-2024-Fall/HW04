@@ -20,7 +20,7 @@ Offset Positioning: Each circle's position is slightly offset (+25 pixels) from 
 
 Wall Drawing #65
 
-A wall divided horizontally and vertically into four equal parts. Within each part, three of the four kinds of lines are superimposed.
+Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.
 
 Canvas Setup: The canvas is created to cover the full browser window, with a white background (rgb(255, 255, 255)), providing a clean backdrop for the colorful lines.
 
