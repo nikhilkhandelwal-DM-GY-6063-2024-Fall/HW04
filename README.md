@@ -18,7 +18,7 @@ Offset Positioning: Each circle's position is slightly offset (+25 pixels) from 
 
 **PART B**
 
-Wall Drawing #65
+[Wall Drawing #65](https://www.nga.gov/collection/art-object-page.118039.html)
 
 Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.
 
